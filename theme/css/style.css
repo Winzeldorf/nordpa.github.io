@@ -1,12 +1,12 @@
-/* background */
-html {
+/* background Temporarily moved to head.html for path reasons */ 
+/*html {
   background: url('/theme/img/buehne.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   color:white;
-}
+}*/
 /*html{overflow-x:hidden}*/
 
 body{
